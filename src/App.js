@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-            Diana is learning as much as possible :-)
+            Diana is making progress, Slowly but SURELY :-)
         </a>
       </header>
     </div>
