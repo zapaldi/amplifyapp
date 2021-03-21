@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-            Diana Yay Baby Things are starting to move forward :-)
+           Timeout Alert is working, what is next? 
         </a>
       </header>
     </div>
