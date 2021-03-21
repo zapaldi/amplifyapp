@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-            Diana Hoping SSH Authentication is also working on laptop now!
+            Diana Yay Baby Things are starting to move forward :-)
         </a>
       </header>
     </div>
